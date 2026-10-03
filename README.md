@@ -87,3 +87,17 @@ Browser akan memberikan pesan validasi apabila pengguna menekan tombol Kirim tan
 ### Result
 
 ![Gambar 6](Screenshot/ss6.png)
+
+## Membuat Halaman Semantic HTML
+
+Pada langkah ini digunakan elemen semantic HTML:
+
+<header>
+<nav>
+<main>
+<section>
+<article>
+<aside>
+<footer>
+
+Semantic HTML membantu memberikan struktur dan makna yang lebih jelas pada halaman web.
