@@ -72,4 +72,4 @@ Elemen <textarea> digunakan untuk menerima teks yang lebih panjang, seperti alam
 
 ### Result
 
-![Gambar 5](Scrennshot/ss5.html)
+![Gambar 5](Scrennshot/ss5.png)
