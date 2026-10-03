@@ -71,4 +71,5 @@ Sistem Informasi.
 Elemen <textarea> digunakan untuk menerima teks yang lebih panjang, seperti alamat.
 
 ### Result
+
 ![Gambar 5](Scrennshot/ss5.html)
