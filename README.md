@@ -28,3 +28,25 @@ Pada langkah ini tabel dikembangkan menggunakan beberapa elemen HTML:
 ### Result
 
 ![Gambar 2](Screenshot/ss2.png)
+
+## Membuat form registrasi
+
+Form digunakan untuk menerima data dari pengguna.
+
+Input yang digunakan antara lain:
+
+Nama lengkap.
+
+Email.
+
+Password.
+
+Tanggal lahir.
+
+Tombol Daftar.
+
+Tombol Reset.
+
+### Result
+
+![Gambar 3](Screenshot/ss3.png)
