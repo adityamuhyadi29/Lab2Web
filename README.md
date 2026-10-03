@@ -101,3 +101,7 @@ Pada langkah ini digunakan elemen semantic HTML:
 <footer>
 
 Semantic HTML membantu memberikan struktur dan makna yang lebih jelas pada halaman web.
+
+### Result
+
+![Gambar 7](Screenshot/ss7.png)
