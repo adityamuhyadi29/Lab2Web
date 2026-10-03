@@ -34,43 +34,41 @@ Pada langkah ini tabel dikembangkan menggunakan beberapa elemen HTML:
 Form digunakan untuk menerima data dari pengguna.
 
 Input yang digunakan antara lain:
-
-Nama lengkap.
-
-Email.
-
-Password.
-
-Tanggal lahir.
-
-Tombol Daftar.
-
-Tombol Reset.
+- Nama lengkap.
+- Email.
+- Password.
+- Tanggal lahir.
+- Tombol Daftar.
+- Tombol Reset.
 
 ### Result
 
 ![Gambar 3](Screenshot/ss3.png)
 
-### Radio Button dan Checkbox
+## Radio Button dan Checkbox
 
 Radio button digunakan untuk memilih satu pilihan dari beberapa pilihan yang tersedia.
 
 Contohnya adalah pilihan jenis kelamin:
+- Laki-laki.
+- Perempuan.
+- Checkbox digunakan untuk memilih satu atau lebih pilihan.
+- Contohnya adalah keahlian:
+- HTML.
+- CSS.
+- JavaScript.
 
-Laki-laki.
-
-Perempuan.
-
-Checkbox digunakan untuk memilih satu atau lebih pilihan.
-
-Contohnya adalah keahlian:
-
-HTML.
-
-CSS.
-
-JavaScript.
-
-# Result
+### Result
 
 ![Gambar 4](Screenshot/ss4.png)
+
+## Select dan Textarea
+
+Elemen <select> digunakan untuk membuat pilihan berupa dropdown.
+Program studi yang tersedia:
+Teknik Informatika.
+Sistem Informasi.
+Elemen <textarea> digunakan untuk menerima teks yang lebih panjang, seperti alamat.
+
+### Result
+![Gambar 5](Scrennshot/ss5.html)
