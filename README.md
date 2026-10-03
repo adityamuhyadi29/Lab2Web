@@ -50,3 +50,27 @@ Tombol Reset.
 ### Result
 
 ![Gambar 3](Screenshot/ss3.png)
+
+### Radio Button dan Checkbox
+
+Radio button digunakan untuk memilih satu pilihan dari beberapa pilihan yang tersedia.
+
+Contohnya adalah pilihan jenis kelamin:
+
+Laki-laki.
+
+Perempuan.
+
+Checkbox digunakan untuk memilih satu atau lebih pilihan.
+
+Contohnya adalah keahlian:
+
+HTML.
+
+CSS.
+
+JavaScript.
+
+# Result
+
+![Gambar 4](Screenshot/ss4.png)
