@@ -65,11 +65,25 @@ Contohnya adalah pilihan jenis kelamin:
 ## Select dan Textarea
 
 Elemen <select> digunakan untuk membuat pilihan berupa dropdown.
-Program studi yang tersedia:
-Teknik Informatika.
-Sistem Informasi.
+- Program studi yang tersedia:
+- Teknik Informatika.
+- Sistem Informasi.
 Elemen <textarea> digunakan untuk menerima teks yang lebih panjang, seperti alamat.
 
 ### Result
 
 ![Gambar 5](Scrennshot/ss5.png)
+
+## Validasi Form Dasar
+
+Validasi dilakukan menggunakan atribut HTML seperti:
+- required
+- minlength
+- min
+- max
+- type="email"
+Browser akan memberikan pesan validasi apabila pengguna menekan tombol Kirim tanpa memenuhi ketentuan yang telah ditentukan.
+
+### Result
+
+![Gambar 6](Screenshot/ss6.png)
